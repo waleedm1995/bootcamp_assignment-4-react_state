@@ -1,0 +1,12 @@
+.basic{
+  height: 500px;
+}
+
+.afternoon{
+  background-color: yellow;
+}
+
+.night{
+  background-color: black;
+  color: white;
+}

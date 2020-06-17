@@ -3,7 +3,7 @@ import Count from './count'
 import './App.css'
 function App(){
 
-    let [isAfternoon,setDay]=useState(true);
+    let [isAfternoon,setDay]=useState(false);
     let [count,setCount]=useState(1);
 
   return (
